@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+button {
+  font-size: 1.1em;
+  width: 80px;
+  height: 40px;
+}
